@@ -1,0 +1,14 @@
+E:\Project\Hacktoberfest 2021\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Project\Hacktoberfest 2021\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Project\Hacktoberfest 2021\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Project\Hacktoberfest 2021\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Project\Hacktoberfest 2021\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Project\Hacktoberfest 2021\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Project\Hacktoberfest 2021\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\HP\Desktop\Hack2\C-Sharp_Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\HP\Desktop\Hack2\C-Sharp_Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\HP\Desktop\Hack2\C-Sharp_Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\HP\Desktop\Hack2\C-Sharp_Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Hack2\C-Sharp_Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Hack2\C-Sharp_Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\HP\Desktop\Hack2\C-Sharp_Calculator\Calculator\obj\Debug\Calculator.pdb
